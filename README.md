@@ -4,4 +4,4 @@
 
 contribucion local para github
 
-un commit mas dede github
+un commit mas desde github
